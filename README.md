@@ -1,3 +1,7 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    
 임베디드 시스템과 AI에 관심이 있는 YOON JONG SEOK입니다
 
 ## skill stack
