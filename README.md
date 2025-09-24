@@ -1,21 +1,17 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=#b897ff&height=120&text=&animation=twinkling&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+          </div>
     </div>
     
-임베디드 시스템과 AI에 관심이 있는 YOON JONG SEOK입니다
-
-## skill stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Project :
-[운전자 졸음 감지 및 응급 상황 감지 모니터링](https://github.com/whdtjr/HAMS-Health-Alert-Monitoring-System)
-
-[시각 장애인을 위한 옷 추천 및 위험 감지](https://github.com/whdtjr/4youreyes)
-
-## 연구원 인턴 repo
-[CARLA simulator](https://github.com/whdtjr/scenario_runner/wiki/AVsim-CARLA-documentation)
-
-[Simulator GUI](https://github.com/whdtjr/AVsimGUI)
 
