@@ -1,16 +1,19 @@
-## Hi there 👋
+임베디드 시스템과 AI에 관심이 있는 YOON JONG SEOK입니다
 
-<!--
-**whdtjr/whdtjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## skill stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Project :
+[운전자 졸음 감지 및 응급 상황 감지 모니터링](https://github.com/whdtjr/HAMS-Health-Alert-Monitoring-System)
+[시각 장애인을 위한 옷 추천 및 위험 감지](https://github.com/whdtjr/4youreyes)
+
+## 연구원 인턴 repo
+[CARLA simulator](https://github.com/whdtjr/scenario_runner/wiki/AVsim-CARLA-documentation)
+[Simulator GUI](https://github.com/whdtjr/AVsimGUI)
+
