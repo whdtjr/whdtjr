@@ -15,6 +15,8 @@
 [시각 장애인을 위한 옷 추천 및 위험 감지](https://github.com/whdtjr/4youreyes)
 
 ## 연구원 인턴 repo
+[연구소 내 역할](https://scratched-vise-e9a.notion.site/00d439a533f24e64bc136c24207a3fc3?source=copy_link)
+
 [CARLA simulator](https://github.com/whdtjr/scenario_runner/wiki/AVsim-CARLA-documentation)
 
 [Simulator GUI](https://github.com/whdtjr/AVsimGUI)
