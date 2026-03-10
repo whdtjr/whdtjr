@@ -11,3 +11,8 @@ working on Memory system
 
     
 
+## Contribution
+- Host Read/Write data bottleneck check
+- Data safely and efficiently management
+## analysis
+- 
